@@ -86,5 +86,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Instructions for Use:
 - Replace `"https://github.com/your-username/cifar100-classification.git"` with your actual GitHub repository URL.
 - Add the `LICENSE` file if you plan to use the MIT License, or adjust the license section according to your chosen license.
-
-This `README.md` provides a clear overview of the project, instructions on how to run it, and relevant details about dependencies and results. It should make your repository easy to understand and use for others who might be interested in your work.
